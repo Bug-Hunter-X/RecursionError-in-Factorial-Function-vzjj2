@@ -1,0 +1,1 @@
+This repository contains a simple Python program demonstrating a common error: RecursionError: maximum recursion depth exceeded. The factorial function uses recursion, and for negative input, the recursion goes infinitely. The solution shows how to modify the function to handle negative input gracefully, preventing the RecursionError. 
